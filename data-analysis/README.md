@@ -8,9 +8,9 @@ This section contains projects focused on exploratory data analysis, visualizati
 
 | Project | Description |
 |------|------|
-| Project 1 | Exploratory data analysis on real-world dataset |
-| Project 2 | Data visualization project |
-| Project 3 | Statistical data analysis |
+| Project 1 | Starbucks Data Analysis and Recommendation Model |
+| Project 2 | COVID Data Analysis and Visualization |
+| Project 3 | QS Ranking Data Analysis and Visualization |
 
 ---
 
